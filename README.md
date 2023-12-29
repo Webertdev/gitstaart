@@ -2,7 +2,7 @@
 
 Olá eu sou o Webert
 
-# Meus Hobbies
+## Meus Hobbies
 
 - Ler
 - Jogar play
@@ -10,13 +10,13 @@ Olá eu sou o Webert
 - Tomar chimarrão
 - Estudar
 
-# Atualmente estudo 
+## Atualmente estudo 
 
 - Git e GitHub
 - React
 - Javascript
 
-# Meus contatos
+## Meus contatos
 
 - Instagram: @webert.abreu
 - Github: @webertdev
